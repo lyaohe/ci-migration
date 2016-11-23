@@ -1,14 +1,14 @@
 ##PHP Migrations——Doctrine Migrations教程
 
+> 不知道Migrations有什么用，可参考这篇文章：[为什么要用PHP Migrations](https://my.oschina.net/lyaohe/blog/741475)
+
 博文链接 : http://my.oschina.net/u/930926/blog/741477
 
 > 版权声明：本文为博主原创文章，未经博主允许不得转载。
 
 Doctrine Migrations github地址：[https://github.com/doctrine/migrations](https://github.com/doctrine/migrations)
 
-> 不知道Migrations有什么用，可参考这篇文章：[为什么要用PHP Migrations](https://my.oschina.net/lyaohe/blog/741475)
-
-官方文档Getting Started（快速开始）写得非常不好，用CodeIgniter集成Migrations代码，做了快速演示Demo，可以先把代码跑起来,再看搭建笔记。
+官方文档Getting Started（快速开始）写得非常不好，用CodeIgniter集成Migrations代码，做了快速演示Demo，可以先把代码跑起来，再看搭建笔记。
 
 > 本教程需要使用Composer，既然是趋势就早日拥抱，能写PHP的这点工具用不来说不过去  
 > 如果对Composer还不了解，请参考 [Composer中文网](http://docs.phpcomposer.com/)
